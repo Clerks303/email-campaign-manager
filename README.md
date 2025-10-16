@@ -16,7 +16,7 @@ La prospection B2B moderne exige des campagnes multi-touch personnalisées, un s
 
 - **Campagnes multi-étapes automatisées** : Séquences d'emails personnalisées avec variables dynamiques, délais anti-spam configurables, tracking des ouvertures/clics en temps réel et gestion avancée des statuts (draft, sending, paused, completed)
 
-- **Agent IA conversationnel** : Assistant intelligent Claude 3.5 intégré pour créer des campagnes par commande vocale, analyser les KPIs automatiquement et générer des réponses contextuelles aux prospects
+- **Agent IA conversationnel** : Assistant intelligent Claude 4.5 intégré pour créer des campagnes par commande vocale, analyser les KPIs automatiquement et générer des réponses contextuelles aux prospects
 
 - **Inbox centralisée avec qualification automatique** : Toutes les conversations regroupées en un seul endroit avec système de Read/Unread, scoring automatique des réponses, et capacité de répondre directement depuis l'interface
 

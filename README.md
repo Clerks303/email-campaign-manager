@@ -31,8 +31,8 @@ La prospection B2B moderne exige des campagnes multi-touch personnalisées, un s
 - **Base de données** : SQLite (développement) / PostgreSQL (production)
 - **ORM** : SQLAlchemy 2.0 avec migrations Alembic
 - **Intelligence artificielle** : 
-  - Anthropic Claude 3.5 Sonnet (agent conversationnel, réponses automatiques)
-  - OpenAI GPT-4 (scoring de prospects)
+  - Anthropic Claude 4.5 Sonnet (agent conversationnel, réponses automatiques)
+  - OpenAI GPT-5 (scoring de prospects)
 - **Email & Notifications** : 
   - SMTP multi-providers (Gmail, Outlook, etc.)
   - SendGrid (notifications email)
@@ -175,7 +175,7 @@ Naevoo intègre un **système de notifications multi-canal** complet :
 
 ### Gestion des Prospects
 - ✅ Import CSV en masse avec déduplication
-- ✅ Scoring automatique par IA (GPT-4)
+- ✅ Scoring automatique par IA (GPT-5)
 - ✅ Segmentation et filtres avancés
 - ✅ Profils détaillés avec historique complet
 - ✅ Notifications automatiques sur nouveaux prospects
@@ -204,7 +204,7 @@ Naevoo intègre un **système de notifications multi-canal** complet :
 - ✅ Scoring automatique des réponses
 
 ### Agent IA (Naevoo)
-- ✅ Chat conversationnel avec Claude 3.5 Sonnet
+- ✅ Chat conversationnel avec Claude 4.5 Sonnet
 - ✅ Création de campagnes par commande vocale
 - ✅ Analyse automatique des KPIs
 - ✅ Suggestions de séquences optimales

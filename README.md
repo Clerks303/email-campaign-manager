@@ -27,7 +27,9 @@ Les équipes Sales/Marketing gèrent des volumes croissants de prospects et doiv
 Ce case study ne publie pas le code propriétaire. Il présente l'architecture, les choix techniques, les résultats et une démo produit.
 
 ## Démo (vidéo)
-Lien : https://github.com/user-attachments/assets/1b67e86e-b9c5-4941-9a48-b9e44e5b0e3a
+Lien : 
+https://github.com/user-attachments/assets/0d98ab89-c9f1-4887-8aa3-a39fa1c82f31
+
 
 ## ScreenShots avec données fictives :
 

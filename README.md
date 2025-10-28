@@ -1,4 +1,4 @@
-# Naevoo – Case Study (Public)
+# Naevoo – Plateforme d’automatisation de prospection B2B pilotée par IA
 
 ## Résumé exécutif
 Naevoo est une plateforme d'outreach B2B pilotée par l'IA qui automatise la prospection multi‑étapes, la qualification des réponses et l'analyse des performances en temps réel. L'objectif: réduire de ~70% le temps passé sur les tâches répétitives, tout en améliorant la qualité de qualification et la mesure du ROI.

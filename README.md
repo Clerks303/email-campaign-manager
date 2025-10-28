@@ -33,12 +33,11 @@ https://github.com/user-attachments/assets/1b67e86e-b9c5-4941-9a48-b9e44e5b0e3a
 
 
 
-Parcours démontré:
-1. Import d'un CSV de prospects et déduplication
-2. Création d'une campagne multi‑étapes avec variables et délais
-3. Lancement et suivi des envois; tracking ouvertures/clics
-4. Réception d'une réponse et qualification automatique
-5. Utilisation de l'agent IA pour analyser les KPIs et suggérer des optimisations
+Screen Shot données fictives :
+<img width="1015" height="515" alt="Campagnes" src="https://github.com/user-attachments/assets/35696e6d-eed3-49b7-95bf-73af5861f1e4" />
+<img width="1014" height="574" alt="Inbox" src="https://github.com/user-attachments/assets/defc63d4-49bf-4bbb-80a7-bbd962106de2" />
+<img width="1022" height="573" alt="Analytics" src="https://github.com/user-attachments/assets/b3dfd565-53a9-4866-9996-86e3b8b4b474" />
+
 
 ## Pourquoi cette approche est "production‑ready"
 - 54 endpoints REST documentés (Swagger)

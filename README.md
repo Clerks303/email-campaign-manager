@@ -51,14 +51,12 @@ https://github.com/user-attachments/assets/0d98ab89-c9f1-4887-8aa3-a39fa1c82f31
 - Présentation produit orientée valeur et résultats
 - Architecture et décisions clés
 - Script de démo vidéo et shotlist
-- Texte "Pourquoi moi ? en 10 lignes"
 
 ## Ce que vous ne trouverez pas ici
 - Code source propriétaire, secrets, BDD, logs
 - Algorithmes détaillés de scoring et logique métier sensible
 
 ## Contact
-Romain — Créateur de Naevoo  
-[Insérer email / LinkedIn]  
+Romain 
 
 

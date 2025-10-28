@@ -27,10 +27,11 @@ Les équipes Sales/Marketing gèrent des volumes croissants de prospects et doiv
 Ce case study ne publie pas le code propriétaire. Il présente l'architecture, les choix techniques, les résultats et une démo produit.
 
 ## Démo (vidéo)
-Lien (à insérer par l'auteur): [Vidéo démo 2–3 minutes]
-<img width="3426" height="1286" alt="Dashboard" src="https://github.com/user-attachments/assets/aa1fe339-335b-45fb-a214-7bdfe0049a9b" />
-<img width="3432" height="1287" alt="Agent Naevoo" src="https://github.com/user-attachments/assets/1be83e1a-6aaa-40f0-8ef2-065de1cb1acd" />
-<img width="3428" height="1291" alt="Campaign Builder" src="https://github.com/user-attachments/assets/1a01f36b-f6d6-48dc-b770-66935826244b" />
+Lien (à insérer par l'auteur): 
+
+https://github.com/user-attachments/assets/1b67e86e-b9c5-4941-9a48-b9e44e5b0e3a
+
+
 
 Parcours démontré:
 1. Import d'un CSV de prospects et déduplication
